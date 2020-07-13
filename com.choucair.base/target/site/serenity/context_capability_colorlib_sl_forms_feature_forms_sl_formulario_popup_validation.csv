@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Formulario Popup Validation","Title of your scenario outline","PENDING","14:27:16","0.0","0.01"
+"Formulario Popup Validation","Diligenciamiento exitoso del formulario Popup Validation,","SUCCESS","14:19:51","0.0","44.47"
+"Formulario Popup Validation","Diligenciamiento con errores del formulario Popup Validation,","SUCCESS","10:32:56","0.0","50.21"
